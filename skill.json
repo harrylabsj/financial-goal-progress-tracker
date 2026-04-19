@@ -1,0 +1,20 @@
+{
+  "name": "Financial Goal Progress Tracker",
+  "slug": "financial-goal-progress-tracker",
+  "version": "1.0.0",
+  "description": "Tracks financial goal progress",
+  "author": "Golden Bean (OpenClaw)",
+  "tags": [
+    "finance",
+    "descriptive",
+    "financial"
+  ],
+  "trigger_keywords": [
+    "financial goal progress tracker",
+    "financial goal progress tracker"
+  ],
+  "language": "en",
+  "outputs": "json",
+  "requires_api": false,
+  "readiness": "stable"
+}
